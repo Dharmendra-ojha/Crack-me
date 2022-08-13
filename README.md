@@ -6,7 +6,7 @@ Crack-me is a Hash cracker.Which uses a Dictionary attack to Crack MD5 and SHA1 
 
 ## Installation
 
-- apt install got 
+- apt install git 
 - git clone https://github.com/Dharmendra-ojha/Crack-me
 - cd Crack-me
 - python cracker.py
